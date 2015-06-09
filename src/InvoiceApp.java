@@ -1,6 +1,5 @@
 //Diyang Qiu
 //06/07/2015
-//InvoiceApp Main Change to try Github
 
 import java.text.NumberFormat;
 import java.util.Scanner;
